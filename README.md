@@ -1,3 +1,5 @@
+<div align="center">
+
 # Estilos y Paradigmas de Interacción Persona-Ordenador
 
 ![HCI](https://img.shields.io/badge/HCI-Interacción-6A0DAD?style=for-the-badge)
@@ -6,6 +8,10 @@
 > Análisis comparativo de los estilos y paradigmas de interacción en la disciplina HCI/IPO.
 
 ## Descripción
+
+</div>
+
+---
 
 Análisis teórico-práctico de los principales **estilos y paradigmas de interacción** en la disciplina de Interacción Persona-Ordenador (IPO/HCI): desde interfaces de línea de comandos hasta los paradigmas emergentes de realidad aumentada y agentes conversacionales. Se evalúan las ventajas, limitaciones y casos de uso óptimos de cada estilo.
 
@@ -30,3 +36,12 @@ Análisis teórico-práctico de los principales **estilos y paradigmas de intera
 
 **Asignatura:** Interacción Persona-Ordenador · **Institución:** Ingeniería Informática
 **Autor:** Alejandro De Mendoza — Ingeniero Informático · Especialista Ingeniería de Software
+
+---
+
+## Autor
+
+**Alejandro De Mendoza**  
+Ingeniero Informático · Especialista en IA · Especialista en Ingeniería de Software · Máster en Arquitectura de Software
+
+[![GitHub](https://img.shields.io/badge/GitHub-AlejoTechEngineer-181717?style=for-the-badge&logo=github)](https://github.com/AlejoTechEngineer)
