@@ -25,20 +25,6 @@ Análisis teórico-práctico de los principales **estilos y paradigmas de intera
 | **Lenguaje natural** | Baja fricción, ambigüedad semántica | Chatbots, asistentes virtuales |
 | **Realidad aumentada** | Inmersión, superposición contextual | Industrial, educación, salud |
 
-## Contenido del repositorio
-
-| Archivo | Descripción |
-|---|---|
-| `*.pdf` | Análisis comparativo completo |
-| `Tablas.xlsx` | Matrices comparativas de estilos |
-
-## Contexto académico
-
-**Asignatura:** Interacción Persona-Ordenador · **Institución:** Ingeniería Informática
-**Autor:** Alejandro De Mendoza — Ingeniero Informático · Especialista Ingeniería de Software
-
----
-
 ## Arquitectura
 
 ```mermaid
@@ -53,6 +39,20 @@ flowchart TD
     H --> I[Evaluacion: ventajas - limitaciones - casos de uso]
     I --> J[Analisis comparativo - Documento PDF]
 ```
+
+## Contenido del repositorio
+
+| Archivo | Descripción |
+|---|---|
+| `*.pdf` | Análisis comparativo completo |
+| `Tablas.xlsx` | Matrices comparativas de estilos |
+
+## Contexto académico
+
+**Asignatura:** Interacción Persona-Ordenador · **Institución:** Ingeniería Informática
+**Autor:** Alejandro De Mendoza — Ingeniero Informático · Especialista Ingeniería de Software
+
+---
 
 ## Autor
 
