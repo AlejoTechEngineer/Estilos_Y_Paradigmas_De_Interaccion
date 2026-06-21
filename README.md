@@ -39,6 +39,21 @@ Análisis teórico-práctico de los principales **estilos y paradigmas de intera
 
 ---
 
+## Arquitectura
+
+```mermaid
+flowchart TD
+    A[Analisis de estilos de interaccion HCI/IPO] --> B{Estilo}
+    B --> C[CLI - Linea de comandos]
+    B --> D[WIMP / GUI - Metafora escritorio]
+    B --> E[Manipulacion directa - WYSIWYG]
+    B --> F[Lenguaje Natural - Chatbots y asistentes]
+    B --> G[Realidad Aumentada - Superposicion contextual]
+    C & D & E & F & G --> H[Matrices comparativas - Tablas.xlsx]
+    H --> I[Evaluacion: ventajas - limitaciones - casos de uso]
+    I --> J[Analisis comparativo - Documento PDF]
+```
+
 ## Autor
 
 **Alejandro De Mendoza**  
